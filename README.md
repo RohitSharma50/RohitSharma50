@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Rohit Sharma and I'm a Front End Developer, from haryana, I have developed many frontend projects wit live API and i have alsodeployed them you can see them in my github link with React, Parcel and Bootstrap.</h2>
+<h2 align="left">Hi 👋! My name is Rohit Sharma and I'm a Front End Developer, from haryana, I have developed many frontend projects wit live API and i have alsodeployed them you can see them in my github link with React, Parcel and Bootstrap. <br><br>📚  I’m currently learning Full Stack<br><br>🤝 I’m open to collaborate on FrontEnd and Full Stack web development.<br><br>📂🛠️ All of my projects are available with live link at https://github.com/RohitSharma50?tab=repositories<br><br>💬 Ask me about Web Development</h2>
 
 ###
 
